@@ -1,4 +1,3 @@
-mis_hs
-======
-
 AdNU Highschool Enrolment System
+
+(Page Under Construction)
